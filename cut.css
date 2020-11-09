@@ -1,0 +1,18 @@
+header{
+    width: 100%;
+    margin-right:auto;
+    margin-left: auto;
+    margin-bottom: 2px;
+    background-color: antiquewhite;
+    border: 3px;
+    
+    padding: 2px;
+    overflow:hidden;
+}
+
+#image {
+    opacity: 0.5;
+}
+#image:hover {
+    opacity: 1;
+}

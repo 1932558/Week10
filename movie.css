@@ -1,0 +1,42 @@
+header{
+    width: 100%;
+    margin-right:auto;
+    margin-left: auto;
+    margin-bottom: 2px;
+    background-color: antiquewhite;
+    border: 3px;
+    
+    padding: 2px;
+    overflow:hidden;
+}
+.link_frame {
+   width: 800px;
+    height: 500px;
+    border: none;
+    border: 1px solid;
+    padding-left: 10px;
+    
+}
+.img_border {
+    width: 400px;
+    height: 300px;
+    border: 1px solid;
+}
+
+.contain {
+    border: 1px solid;
+    width: 400px;
+    height: 300px;
+    background-image: url(film.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cover {
+    border: 1px solid;
+    width: 400px;
+    height: 300px;
+    background-image: url(film.png);
+    background-repeat: no-repeat;
+    background-position: 
+}

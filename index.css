@@ -1,0 +1,32 @@
+header{
+    width: 100%;
+    margin-right:auto;
+    margin-left: auto;
+    margin-bottom: 2px;
+    background-color: antiquewhite;
+    border: 3px;
+    
+    padding: 2px;
+    overflow:hidden;
+}
+
+#image {
+    widows: 100px;
+    background-color:#f0f0fb;
+    border-radius: 50px;
+    max-width: 680px;
+    margin: 100px;
+    padding: 20 0 20 0px; 
+    box-shadow: 2px 4px 4px 2px rgba(0,0,0,0.3)
+}
+    
+#image2 {
+    widows: 100px;
+    background-color:#f0f0fb;
+    border-radius: 50px;
+    max-width: 680px;
+    margin: 100px;
+    padding: 20 0 20 0px; 
+    box-shadow: 2px 4px 4px 2px rgba(0,0,0,0.3)
+}
+    
